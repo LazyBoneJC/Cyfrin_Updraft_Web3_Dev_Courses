@@ -10,3 +10,30 @@
 [submodule "foundry_fundamentals/foundry_fund_me/lib/foundry-devops"]
 	path = foundry_fundamentals/foundry_fund_me/lib/foundry-devops
 	url = https://github.com/Cyfrin/foundry-devops
+[submodule "foundry_fundamentals/foundry_smart_contract_lottery/lib/forge-std"]
+	path = foundry_fundamentals/foundry_smart_contract_lottery/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "foundry_fundamentals/foundry_smart_contract_lottery/lib/chainlink-brownie-contracts"]
+	path = foundry_fundamentals/foundry_smart_contract_lottery/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "foundry_fundamentals/foundry_smart_contract_lottery/lib/solmate"]
+	path = foundry_fundamentals/foundry_smart_contract_lottery/lib/solmate
+	url = https://github.com/transmissions11/solmate
+[submodule "foundry_fundamentals/foundry_smart_contract_lottery/lib/foundry-devops"]
+	path = foundry_fundamentals/foundry_smart_contract_lottery/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
+[submodule "advanced_foundry/foundry_erc20/lib/forge-std"]
+	path = advanced_foundry/foundry_erc20/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "advanced_foundry/foundry_erc20/lib/openzeppelin-contracts"]
+	path = advanced_foundry/foundry_erc20/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "advanced_foundry/foundry_nft/lib/forge-std"]
+	path = advanced_foundry/foundry_nft/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "advanced_foundry/foundry_nft/lib/openzeppelin-contracts"]
+	path = advanced_foundry/foundry_nft/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "advanced_foundry/foundry_nft/lib/foundry-devops"]
+	path = advanced_foundry/foundry_nft/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
