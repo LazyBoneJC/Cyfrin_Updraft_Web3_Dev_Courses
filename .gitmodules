@@ -37,3 +37,12 @@
 [submodule "advanced_foundry/foundry_nft/lib/foundry-devops"]
 	path = advanced_foundry/foundry_nft/lib/foundry-devops
 	url = https://github.com/Cyfrin/foundry-devops
+[submodule "advanced_foundry/foundry_defi_stablecoin/lib/forge-std"]
+	path = advanced_foundry/foundry_defi_stablecoin/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "advanced_foundry/foundry_defi_stablecoin/lib/openzeppelin-contracts"]
+	path = advanced_foundry/foundry_defi_stablecoin/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "advanced_foundry/foundry_defi_stablecoin/lib/chainlink-brownie-contracts"]
+	path = advanced_foundry/foundry_defi_stablecoin/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
