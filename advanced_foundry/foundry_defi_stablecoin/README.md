@@ -12,3 +12,7 @@
 - Added a bunch of view function
 
 1. What are our invariants/properties?(-> what stateless and stateful fuzz testing is, and why it's so important to project like this potentially with a lot of money moving around.)
+
+1. Some proper oracle use
+1. Write more test
+1. Smart Contract Audit Prepareness
